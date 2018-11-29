@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/lianxiren"
+    android:icon="@mipmap/lianxiren"
+    android:title="联系人"
+    />
+    <item
+        android:id="@+id/shezhi"
+        android:icon="@mipmap/shezhi"
+        android:title="设置"
+        />
+    <item
+        android:id="@+id/qunzu"
+        android:icon="@mipmap/qunzu"
+        android:title="群组"
+        />
+    <item
+        android:id="@+id/youxiang"
+        android:icon="@mipmap/youxiang"
+        android:title="邮箱"
+        />
+</menu>
